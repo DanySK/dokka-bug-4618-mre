@@ -48,7 +48,7 @@ Compare `b/build/dokka/html/b/b/-from-kotlin/index.html` across versions:
 (`KotlinBase` and `JavaBase` render as unresolved-link spans with a DRI when resolved,
 since module `a` is not part of this publication.)
 
-Possibly related: #4583 (annotations written in Kotlin and taken from the classpath are dropped from Java sources).
+Possibly related: Kotlin/dokka#4583 (annotations written in Kotlin and taken from the classpath are dropped from Java sources).
 
 ## Environment
 
